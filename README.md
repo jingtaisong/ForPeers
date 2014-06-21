@@ -61,7 +61,7 @@ Please submit a link to a Github repo with the code for performing your analysis
 
 # Data processes for the file subjectactivitymean.txt
 
-![image from saswindy](https://github.com/saswindy/ForPeers/CodeSummary.jpg)
+![image from saswindy](https://github.com/saswindy/ForPeers/blob/master/CodeSummary.jpg)
 
 1. upload the needed files.
 2. column-combine the "train" files all together in this order: variable subject activity. This order facilitate the usage of indexes. The same process is used for the "test" files.
