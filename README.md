@@ -44,21 +44,6 @@ The second step is to create a second tidy dataset and calculate the mean of eac
 
  * The file, unzipped, downloaded from this website page: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
-# Notes context of the assignment
-Please submit a link to a Github repo with the code for performing your analysis. The code should have a file run_analysis.R in the main directory that can be run as long as the Samsung data is in your working directory. The output should be the tidy data set you submitted for part 1. You should include a README.md in the repo describing how the script works. 
-
-
-1 In the original dataset some variables do not follow the naming convention 
-  described in the features_info.txt file. For example sometimes the word "Body" 
-  appears two times in the name. For a real analysis (not a course assignment) I 
-  would contact the data provider and agree on name changes or spend time on each 
-  variable to understand the calculation and rename the variable accordingly. 
-  However for the assignment I keept the names as is so that, in case data have to 
-  be reconciled it will be feasible.
-2 In the feature_info.txt file I would add a section to explain the new variable
-  calculation for each mean of each mean, standard deviation per subject activity
-3 In the feature.txt file I would add the additionnal id/desc for the new variable.
-
 # Data processes for the file subjectactivitymean.txt
 
 ![image from saswindy](https://github.com/saswindy/ForPeers/blob/master/CodeSummary.jpg)
